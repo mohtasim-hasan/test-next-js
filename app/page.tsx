@@ -63,6 +63,7 @@ export default function Home() {
             Documentation
           </a>
         </div>
+          <h1>a testing web app</h1>
       </main>
     </div>
   );
